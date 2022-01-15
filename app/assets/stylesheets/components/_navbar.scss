@@ -1,0 +1,12 @@
+.navbar-lambo {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar-lambo .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lambo .navbar-brand img {
+  width: 40px;
+}
